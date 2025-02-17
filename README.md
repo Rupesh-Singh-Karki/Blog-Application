@@ -23,7 +23,7 @@ This repository contains a simple RESTful API built with **FastAPI** that allows
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/fastapi-posts-users-api.git
+   git clone https://github.com/Rupesh-Singh-Karki/Blog-Application.git
    cd fastapi-posts-users-api
    ```
 
