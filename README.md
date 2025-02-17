@@ -24,7 +24,7 @@ This repository contains a simple RESTful API built with **FastAPI** that allows
 
    ```bash
    git clone https://github.com/Rupesh-Singh-Karki/Blog-Application.git
-   cd fastapi-posts-users-api
+   cd Blog-Application
    ```
 
 2. **Create and activate a virtual environment (optional but recommended):**
